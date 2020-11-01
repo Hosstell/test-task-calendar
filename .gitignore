@@ -1,0 +1,4 @@
+.idea
+db.sqlite3
+front/node_modules
+TestTaskCalendar.iml
